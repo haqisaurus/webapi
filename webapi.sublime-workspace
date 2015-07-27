@@ -1,0 +1,1124 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"fonts"
+			],
+			[
+				"syl",
+				"styleCSS"
+			],
+			[
+				"uploaded",
+				"uploadedDesign"
+			],
+			[
+				"uplo",
+				"uploaded"
+			],
+			[
+				"roo",
+				"rootPath"
+			],
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"check",
+				"checked"
+			],
+			[
+				"sele",
+				"selectedBorders"
+			],
+			[
+				"find",
+				"findObject"
+			],
+			[
+				"php",
+				"phpQuery"
+			],
+			[
+				"fk_",
+				"fk_design_id"
+			],
+			[
+				"ins",
+				"insertDB"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"num",
+				"num_rows"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"fon",
+				"fonts"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"occ",
+				"occasion"
+			],
+			[
+				"defa",
+				"defaultFormat"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"app",
+				"approval"
+			],
+			[
+				"key",
+				"array_key_exists"
+			],
+			[
+				"design",
+				"design_model"
+			],
+			[
+				"update",
+				"updateDesign"
+			],
+			[
+				"control",
+				"controlForm"
+			],
+			[
+				"data",
+				"dataInsert"
+			],
+			[
+				"we",
+				"weight"
+			],
+			[
+				"occa",
+				"occasions"
+			],
+			[
+				"categ",
+				"category"
+			],
+			[
+				"form_c",
+				"form_checkbox	CI - Form Helper - Checkbox"
+			],
+			[
+				"fk_design",
+				"fk_design_print_id"
+			],
+			[
+				"ex",
+				"explode"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"thisS",
+				"thisSKU"
+			],
+			[
+				"dimension",
+				"dimension_model"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"gen",
+				"generateSKU"
+			],
+			[
+				"paper",
+				"paper_model"
+			],
+			[
+				"attru",
+				"attribute"
+			],
+			[
+				"user",
+				"usertype"
+			],
+			[
+				"pars",
+				"parseInt"
+			],
+			[
+				"selected",
+				"selectedElement"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"inser",
+				"insertAfter	.insertAfter()"
+			],
+			[
+				"sho",
+				"shopping"
+			],
+			[
+				"trim",
+				"trim_item"
+			],
+			[
+				"isca",
+				"isCascade"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"or",
+				"order_cart"
+			],
+			[
+				"input",
+				"input-item"
+			],
+			[
+				"envelope",
+				"envelope_extra"
+			],
+			[
+				"order",
+				"order_model"
+			],
+			[
+				"_p",
+				"_POST"
+			],
+			[
+				"form",
+				"form_close	CI - Form Helper - Close"
+			],
+			[
+				"ea",
+				"each	.each()"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"pk_design",
+				"pk_design_file_id"
+			],
+			[
+				"cart",
+				"cart_detail"
+			],
+			[
+				"pk_",
+				"pk_order_item_id"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"tota",
+				"totalCard"
+			],
+			[
+				"front",
+				"front_price"
+			],
+			[
+				"des",
+				"design_tool"
+			],
+			[
+				"choose",
+				"choose-rsvp"
+			],
+			[
+				"total",
+				"totalAttribut"
+			],
+			[
+				"colo",
+				"colorPrice"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"cs",
+				"css	.css() - multiple"
+			],
+			[
+				"sp",
+				"spinner"
+			],
+			[
+				"pre",
+				"preg_match"
+			],
+			[
+				"pk",
+				"pk_font_id"
+			],
+			[
+				"new",
+				"newPath"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"isedi",
+				"isEditing"
+			],
+			[
+				"prev",
+				"preventDefault"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"before",
+				"beforeSend"
+			],
+			[
+				"load",
+				"loading"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"emil",
+				"email_name"
+			],
+			[
+				"email",
+				"email_sender"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"cl",
+				"cl	console"
+			],
+			[
+				"sv",
+				"svgtool-no-draging"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"fo",
+				"foreignObject"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ap",
+				"append	.append()"
+			],
+			[
+				"save",
+				"savedItem"
+			],
+			[
+				"th",
+				"this	$(this)"
+			],
+			[
+				"close",
+				"closest	.closest()"
+			],
+			[
+				"fk",
+				"fk_cart_id"
+			],
+			[
+				"replace",
+				"replaceWith	.replaceWith()"
+			],
+			[
+				"count",
+				"countBag"
+			],
+			[
+				"ope",
+				"opened"
+			],
+			[
+				"js",
+				"JSON"
+			],
+			[
+				"e",
+				"each	.each()"
+			],
+			[
+				"spli",
+				"splitPath"
+			],
+			[
+				"spl",
+				"splitPath"
+			],
+			[
+				"fron",
+				"front"
+			],
+			[
+				"each",
+				"each	.each()"
+			],
+			[
+				"word",
+				"words"
+			],
+			[
+				"wor",
+				"words"
+			],
+			[
+				"wo",
+				"words"
+			],
+			[
+				"emp",
+				"empty"
+			],
+			[
+				"Ap",
+				"APP"
+			],
+			[
+				"dis",
+				"disable"
+			],
+			[
+				"country",
+				"countryID"
+			],
+			[
+				"post",
+				"POST"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"coun",
+				"countryID"
+			],
+			[
+				"arra",
+				"array_push"
+			],
+			[
+				"fa",
+				"favorites"
+			],
+			[
+				"remov",
+				"removeClass	.removeClass()"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"curren",
+				"currentUser"
+			],
+			[
+				"URL",
+				"SITE_URL"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<?php\n\n/*\n|--------------------------------------------------------------------------\n| Application Routes\n|--------------------------------------------------------------------------\n|\n| Here is where you can register all of the routes for an application.\n| It's a breeze. Simply tell Laravel the URIs it should respond to\n| and give it the controller to call when that URI is requested.\n|\n*/\n\n\nApp::singleton('oauth2', function() {\n	\n	$storage = new OAuth2\\Storage\\Pdo(array('dsn' => 'mysql:dbname=webapi;host=localhost', 'username' => 'janganroot', 'password' => 'letmein!'));\n	$server = new OAuth2\\Server($storage);\n	\n	$server->addGrantType(new OAuth2\\GrantType\\ClientCredentials($storage));\n	$server->addGrantType(new OAuth2\\GrantType\\UserCredentials($storage));\n	\n	return $server;\n});\nRoute::get('/', function () {\n    return view('welcome');\n});\n\nRoute::post('oauth/token', function()\n{\n	$bridgedRequest  = OAuth2\\HttpFoundationBridge\\Request::createFromRequest(Request::instance());\n	$bridgedResponse = new OAuth2\\HttpFoundationBridge\\Response();\n	\n	$bridgedResponse = App::make('oauth2')->handleTokenRequest($bridgedRequest, $bridgedResponse);\n	\n	return $bridgedResponse;\n});\nRoute::get('private', function()\n{\n	$bridgedRequest  = OAuth2\\HttpFoundationBridge\\Request::createFromRequest(Request::instance());\n	$bridgedResponse = new OAuth2\\HttpFoundationBridge\\Response();\n	\n	if (App::make('oauth2')->verifyResourceRequest($bridgedRequest, $bridgedResponse)) {\n		\n		$token = App::make('oauth2')->getAccessTokenData($bridgedRequest);\n		\n		return Response::json(array(\n			'private' => 'stuff',\n			'user_id' => $token['user_id'],\n			'client'  => $token['client_id'],\n			'expires' => $token['expires'],\n		));\n	}\n	else {\n		return Response::json(array(\n			'error' => 'Unauthorized'\n		), $bridgedResponse->getStatusCode());\n	}\n});\n\n",
+			"file": "app/Http/routes.php",
+			"file_size": 1831,
+			"file_write_time": 130822061142510207,
+			"settings":
+			{
+				"buffer_size": 1832,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/Auth/AuthController.php",
+			"settings":
+			{
+				"buffer_size": 1777,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: haqi"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"InsertDateAtTop",
+			"view.runCommand('InsertDateAtTop')",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/www/webapi",
+		"/D/www/webapi/app",
+		"/D/www/webapi/app/Http",
+		"/D/www/webapi/app/Http/Controllers",
+		"/D/www/webapi/app/Http/Controllers/Auth",
+		"/D/www/webapi/app/Http/Middleware",
+		"/D/www/webapi/database",
+		"/D/www/webapi/database/migrations",
+		"/D/www/webapi/database/seeds"
+	],
+	"file_history":
+	[
+		"/D/www/kh_paperlust/importer/import.php",
+		"/D/www/kh_paperlust/application/config/database.php",
+		"/D/www/kh_paperlust/application/controllers/admin/design_tool/font.php",
+		"/D/www/kh_paperlust/application/libraries/fontinfo.php",
+		"/D/www/kh_paperlust/application/controllers/customer/design_tool.php",
+		"/D/www/kh_paperlust/application/controllers/customer/welcome.php",
+		"/D/www/kh_paperlust/application/config/routes.php",
+		"/D/www/kh_paperlust/application/controllers/admin/landing.php",
+		"/D/www/kh_paperlust/application/views/template/email/design_reviewer_notification.php",
+		"/D/www/kh_paperlust/application/models/design_model.php",
+		"/D/www/kh_paperlust/application/controllers/admin/design_tool/design.php",
+		"/D/www/kh_paperlust/application/controllers/designer/designer.php",
+		"/D/www/kh_paperlust/assets/js/frontend/engine.js",
+		"/D/www/kh_paperlust/application/config/config.php",
+		"/D/www/webapi/.env",
+		"/D/www/kh_paperlust/application/views/backend/pages/design/update-file.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/design/update.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/design/create.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/design/edit-file.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/design/index.php",
+		"/D/www/kh_paperlust/application/models/occasion_model.php",
+		"/D/www/kh_paperlust/application/models/border_model.php",
+		"/D/www/kh_paperlust/application/models/weight_model.php",
+		"/D/www/kh_paperlust/application/models/paper_model.php",
+		"/D/www/kh_paperlust/application/config/mimes.php",
+		"/D/www/kh_paperlust/application/helpers/myown_helper.php",
+		"/D/www/kh_paperlust/application/controllers/auth.php",
+		"/D/www/kh_paperlust/application/models/file_model.php",
+		"/D/www/kh_paperlust/assets/js/design_tool/src/design_tool.js",
+		"/D/www/kh_paperlust/application/views/frontend/customise-design/customise-design.php",
+		"/D/www/kh_paperlust/application/helpers/phpquery_helper.php",
+		"/D/www/kh_paperlust/uploads/design/227/back_design_design_1_today_portrait.svg",
+		"/D/www/kh_paperlust/assets/js/admin/src/engine.js",
+		"/D/www/kh_paperlust/assets/css/admin/src/style.less",
+		"/D/www/kh_paperlust/application/views/frontend/customise-design/design-part/editor-tool-content.php",
+		"/D/www/kh_paperlust/application/views/frontend/cascade-design/design-part/editor-tool-content.php",
+		"/D/www/kh_paperlust/application/views/frontend/browse-design/browse-design.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/design/create-file.php",
+		"/D/www/kh_paperlust/uploads/design/222/front_design_design_1_today_portrait.svg",
+		"/D/www/kh_paperlust/application/models/user_model.php",
+		"/D/www/kh_paperlust/application/controllers/user.php",
+		"/D/www/kh_paperlust/application/views/backend_designer/design/design-submit-notif.php",
+		"/D/www/kh_paperlust/application/views/layout/element/menu-list.php",
+		"/D/www/kh_paperlust/assets/js/engine.beautified.js",
+		"/D/www/kh_paperlust/application/views/backend/pages/border/edit.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/border/create.php",
+		"/D/www/kh_paperlust/application/controllers/admin/design_tool/border.php",
+		"/D/www/kh_paperlust/system/helpers/form_helper.php",
+		"/D/www/kh_paperlust/application/models/file_type_model.php",
+		"/D/www/kh_paperlust/application/models/design_type_model.php",
+		"/C/Users/KH-NB-06/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/www/kh_paperlust/application/helpers/browse_design_meta_helper.php",
+		"/D/www/kh_paperlust/application/views/backend/admin_template/admin_master_page.php",
+		"/D/www/kh_paperlust/application/models/side_model.php",
+		"/D/www/kh_paperlust/application/views/frontend/cascade-design/design-part/editor-tool-price.php",
+		"/D/www/kh_paperlust/application/controllers/admin/sku/sku.php",
+		"/D/www/kh_paperlust/application/models/print_model.php",
+		"/D/www/kh_paperlust/application/models/printing_model",
+		"/D/www/kh_paperlust/application/views/frontend/customise-design/design-part/editor-tool-price.php",
+		"/D/www/kh_paperlust/application/views/frontend/widget/single-dropdown.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/design/edit.php",
+		"/D/www/kh_paperlust/application/views/frontend/widget/tools-weight.php",
+		"/D/www/kh_paperlust/application/views/frontend/widget/tools-dimention.php",
+		"/D/www/kh_paperlust/import.php",
+		"/D/www/kh_paperlust/application/models/sku_price_model.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/sku/index.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/weight/index.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/weight/edit.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/weight/create.php",
+		"/D/www/kh_paperlust/application/controllers/admin/design_tool/weight.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/sku/create.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/sku/edit.php",
+		"/D/www/kh_paperlust/application/views/backend/admin_template/nav_part.php",
+		"/D/www/kh_paperlust/application/models/format_model.php",
+		"/D/www/kh_paperlust/application/models/dimension_model.php",
+		"/D/www/kh_paperlust/application/models/quantity_model.php",
+		"/D/www/kh_paperlust/application/controllers/admin/design_tool/paper.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/paper/create.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/paper/index.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/paper/edit.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/occasion/create.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/occasion/edit.php",
+		"/D/www/kh_paperlust/application/controllers/admin/design_tool/occasion.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/occasion/index.php",
+		"/D/www/kh_paperlust/application/controllers/admin/sku/sku_variable.php",
+		"/D/www/kh_paperlust/application/models/sku_variable_model.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/sku-variable/create.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/sku-variable/index.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/sku-category/create.php",
+		"/D/www/kh_paperlust/application/controllers/admin/sku/category.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/sku-category/edit.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/sku-category/index.php",
+		"/D/www/kh_paperlust/application/views/backend/pages/category/index.php",
+		"/D/www/kh_paperlust/application/models/sku_category_model.php",
+		"/D/www/kh_paperlust/application/views/frontend/why-join/why-join.php",
+		"/D/www/kh_paperlust/application/controllers/payment.php",
+		"/D/www/kh_paperlust/application/controllers/admin/price/price_controller.php",
+		"/D/www/kh_paperlust/application/controllers/admin/price/category.php",
+		"/D/www/kh_paperlust/application/models/sku_category_model.html",
+		"/D/www/kh_paperlust/assets/css/frontend/src/widget-editor-tool.less",
+		"/D/www/kh_paperlust/application/core/MY_router.php",
+		"/C/Users/KH-NB-06/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/D/www/kh_paperlust/assets/css/frontend/src/style.less",
+		"/D/www/kh_paperlust/assets/css/frontend/style.css",
+		"/D/www/kh_paperlust/assets/css/frontend/src/widget-step-heading-editor-design.less",
+		"/D/www/kh_paperlust/assets/js/design_tool/design_tool.js",
+		"/C/Users/KH-NB-06/AppData/Local/Temp/fz3temp-1/design_tool.js",
+		"/C/Users/KH-NB-06/AppData/Local/Temp/fz3temp-1/style.css",
+		"/D/www/kh_paperlust/application/config/config.php.bckp",
+		"/D/www/kh_paperlust/application/views/frontend/widget/design-slider.php",
+		"/D/www/kh_paperlust/application/views/frontend/widget/step-bundle.php",
+		"/D/www/kh_paperlust/application/views/backend_designer/designer-profile/designer-profile.php",
+		"/D/www/kh_paperlust/assets/css/frontend/src/widget-about-profile.less",
+		"/D/www/kh_paperlust/application/views/layout/element/header-ex-logo.php",
+		"/D/www/kh_paperlust/application/views/frontend/widget/popup-customise-login.php",
+		"/D/www/kh_paperlust/application/views/frontend/designer-profile/designer-profile.php",
+		"/D/www/kh_paperlust/application/views/frontend/widget/payment-form.php",
+		"/D/www/kh_paperlust/application/views/frontend/cart-page/cart-page.php",
+		"/D/www/kh_paperlust/application/views/frontend/shopping-bag/shopping-bag.php",
+		"/D/www/kh_paperlust/application/views/frontend/my-save-design/nav-right-save-design.php",
+		"/D/www/kh_paperlust/application/views/frontend/customise-rsvp/customise-rsvp.php",
+		"/D/www/kh_paperlust/application/views/frontend/customise-rsvp/rsvp-part/editor-tool-content.php",
+		"/D/www/kh_paperlust/application/views/frontend/widget/get-paid-design.php",
+		"/D/www/kh_paperlust/application/views/frontend/widget/competition-design.php",
+		"/G/images/SimpleBlog.css",
+		"/G/index.html",
+		"/D/www/kh_paperlust/application/views/layout/element/menu-form-detail-account-designer.php",
+		"/D/www/kh_paperlust/application/views/layout/element/menu-form-detail-account-customer.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\www\\kh_paperlust",
+			"D:\\www\\kh_paperlust\\application",
+			"D:\\www\\kh_paperlust\\assets\\js",
+			"D:\\www\\kh_paperlust\\application",
+			"D:\\www\\kh_paperlust\\assets\\css",
+			"D:\\www\\kh_paperlust",
+			"D:\\www\\kh_paperlust\\assets\\css",
+			"D:\\www\\kh_paperlust\\application\\views\\frontend\\widget",
+			"D:\\www\\kh_paperlust\\application\\views",
+			"D:\\www\\kh_paperlust\\assets",
+			"D:\\www\\kh_paperlust\\application\\views",
+			"D:\\www\\kh_paperlust\\application\\views\\frontend\\customise-design\\design-part",
+			"D:\\www\\kh_paperlust\\assets\\css",
+			"D:\\www\\kh_paperlust\\assets",
+			"D:\\www\\kh_paperlust\\assets\\css",
+			"D:\\www\\kh_paperlust\\assets\\css\\frontend",
+			"D:\\www\\kh_paperlust\\assets\\css\\design_tool",
+			"D:\\www\\kh_paperlust\\assets\\css",
+			"D:\\www\\kh_paperlust\\assets",
+			"D:\\www\\kh_paperlust",
+			"D:\\www\\kh_paperlust\\assets\\css",
+			"C:\\xampp\\htdocs\\kh_paperlust\\assets\\css",
+			"C:\\xampp\\htdocs\\kh_paperlust\\assets",
+			"C:\\xampp\\htdocs\\kh_paperlust\\assets\\css",
+			"C:\\xampp\\htdocs\\kh_paperlust\\assets",
+			"C:\\xampp\\htdocs\\kh_paperlust\\assets\\css\\frontend\\src",
+			"C:\\xampp\\htdocs\\kh_paperlust\\assets",
+			"C:\\xampp\\htdocs\\kh_paperlust\\assets\\css",
+			"C:\\xampp\\htdocs\\kh_paperlust\\assets",
+			"C:\\xampp\\htdocs\\kh_paperlust\\assets\\css",
+			"C:\\xampp\\htdocs\\kh_paperlust\\assets\\css\\frontend\\src",
+			"C:\\xampp\\htdocs\\kh_paperlust\\application",
+			"C:\\xampp\\htdocs\\kh_paperlust",
+			"C:\\xampp\\htdocs\\kh_paperlust\\application\\views\\frontend",
+			"C:\\xampp\\htdocs\\kh_paperlust\\application\\views\\frontend\\widget",
+			"C:\\xampp\\htdocs\\kh_paperlust\\assets\\css\\frontend\\src",
+			"C:\\xampp\\htdocs\\kh_paperlust\\assets\\css\\frontend\\src\\mixins",
+			"C:\\xampp\\htdocs\\kh_paperlust\\assets\\css",
+			"C:\\xampp\\htdocs\\kh_paperlust\\assets",
+			"C:\\xampp\\htdocs\\kh_paperlust\\assets\\css",
+			"C:\\xampp\\htdocs\\kh_paperlust\\assets\\css\\frontend",
+			"C:\\xampp\\htdocs\\kh_paperlust",
+			"C:\\xampp\\htdocs\\kh_paperlust\\assets",
+			"C:\\xampp\\htdocs\\kh_paperlust\\_notes",
+			"C:\\xampp\\htdocs\\kh_paperlust\\_notes\\New folder",
+			"C:\\xampp\\htdocs\\kh_paperlust\\assets\\css\\frontend",
+			"C:\\xampp\\htdocs\\kh_paperlust\\application\\views",
+			"C:\\xampp\\htdocs\\kh_paperlust\\application\\views\\frontend\\customise-design"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"preloadDesign",
+			"genCssFont",
+			"send_email_to_reviewer",
+			"mkd",
+			"');\n",
+			"'],",
+			"uploadFiles",
+			"['id']",
+			"id",
+			"$this->",
+			"$design ?",
+			"$design",
+			"$id",
+			"echo",
+			"occasion",
+			"weight",
+			"paper_model",
+			"rel_weight",
+			"fk_paper_id",
+			"p",
+			"$this->table",
+			"result['id']",
+			"disablePage",
+			" ? : 0",
+			"Download",
+			"button",
+			"'])",
+			"uploadFiles",
+			"upload",
+			"updateDesign",
+			"upload",
+			"findBy",
+			"$xml",
+			"$this->load->helper(\"phpQuery\");",
+			"phpQuery",
+			"get_paper_price",
+			"countPriceSavedDesign",
+			"paper_model",
+			"= $this->fontList",
+			"firstFont",
+			"rsvp-url",
+			"fontL",
+			"border",
+			"paper",
+			"images",
+			"files",
+			"border_model->find(",
+			"border_model->find",
+			"border_model",
+			"preloadDesign",
+			"customizeDesign",
+			"store",
+			"font-siz",
+			"font-s",
+			"font-size",
+			"family",
+			"font-size",
+			"\n				",
+			"designer/",
+			"designer",
+			"loginProgress",
+			"login",
+			"();\n",
+			"admin_designer",
+			"font-size",
+			"dataFont",
+			"\\n",
+			"$font",
+			"css",
+			"font_name",
+			"name",
+			"genCssFont",
+			"css",
+			"attr",
+			"attri",
+			"css",
+			"font-family",
+			"preloadDesign",
+			"genCssFont",
+			"preloadDesign",
+			"_preview",
+			"border:",
+			"')\n",
+			"client",
+			"click",
+			"front",
+			"back-design",
+			"front",
+			"file_name",
+			"click",
+			"'select[name=type]'",
+			"#create-uploader",
+			"#",
+			"echo '<pre>' . print_r($data, 1) . '</pre>';",
+			"defaultFormat",
+			"side",
+			"Side",
+			"dimension",
+			"Dimension",
+			"[]'),",
+			"designData",
+			"path",
+			"envelope",
+			"front",
+			"_files",
+			"front-design",
+			"front",
+			"design",
+			"change",
+			"form",
+			"occasion",
+			"findBy",
+			"card",
+			"pk_design_category_id",
+			"category",
+			"pl",
+			"options",
+			";\n",
+			"border",
+			"$value",
+			"value",
+			"selectedBorder",
+			"print",
+			"pk_design_print_id",
+			"side",
+			"sides",
+			"design",
+			"dimension"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"occasion",
+			"Occasion",
+			"variable",
+			"Variable",
+			"variable",
+			"alwaysbadminton.com"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								852,
+								852
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/Auth/AuthController.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1415,
+								1415
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 390.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "webapi.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"data",
+				"application\\config\\database.php"
+			],
+			[
+				"engine",
+				"assets\\js\\frontend\\engine.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\blog.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 593.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 361.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
