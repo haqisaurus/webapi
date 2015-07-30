@@ -15,11 +15,36 @@ class DatabaseSeeder extends Seeder
         Model::unguard();
 
         // $this->call(UserTableSeeder::class);
+        $this->call('UserTableSeeder');
         $this->call('OAuthClientsSeeder');
         $this->call('OAuthUsersSeeder');
         Model::reguard();
     }
 
+}
+
+class UserTableSeeder extends Seeder
+{
+    public function run()
+    {
+        DB::table('users')->insert(array(
+            'first_name' => "testclient",
+            'last_name' => "testpass",
+            'email' => "admin@admin.com",
+            'password' => Hash::make('admin'),
+            'photo_url' => '',
+            'status' => 1,
+        ));
+
+        DB::table('users')->insert(array(
+            'first_name' => "haqi",
+            'last_name' => "haqi",
+            'email' => "haqi@admin.com",
+            'password' => hash::make('haqi'),
+            'photo_url' => '',
+            'status' => 1,
+        ));
+    }
 }
 
 class OAuthClientsSeeder extends Seeder

@@ -11,6 +11,21 @@
 |
 */
 
+/**
+AUTH ACTION 
+*/
+Route::get('error', function() {
+	return view('errors.api-error');
+});
+
+Route::get('auth', function() {
+	echo '<pre>' . print_r($_POST, 1) . '</pre>';
+});
+Route::post('auth', 'Auth\AuthController@postLogin');
+    
+/**
+API ACTION 
+************/
 
 App::singleton('oauth2', function() {
 	
@@ -25,35 +40,5 @@ App::singleton('oauth2', function() {
 Route::get('/', function () {
     return view('welcome');
 });
-Route::post('oauth/token', function()
-{
-	$bridgedRequest  = OAuth2\HttpFoundationBridge\Request::createFromRequest(Request::instance());
-	$bridgedResponse = new OAuth2\HttpFoundationBridge\Response();
-	
-	$bridgedResponse = App::make('oauth2')->handleTokenRequest($bridgedRequest, $bridgedResponse);
-	
-	return $bridgedResponse;
-});
-Route::get('private', function()
-{
-	$bridgedRequest  = OAuth2\HttpFoundationBridge\Request::createFromRequest(Request::instance());
-	$bridgedResponse = new OAuth2\HttpFoundationBridge\Response();
-	
-	if (App::make('oauth2')->verifyResourceRequest($bridgedRequest, $bridgedResponse)) {
-		
-		$token = App::make('oauth2')->getAccessTokenData($bridgedRequest);
-		
-		return Response::json(array(
-			'private' => 'stuff',
-			'user_id' => $token['user_id'],
-			'client'  => $token['client_id'],
-			'expires' => $token['expires'],
-		));
-	}
-	else {
-		return Response::json(array(
-			'error' => 'Unauthorized'
-		), $bridgedResponse->getStatusCode());
-	}
-});
+
 

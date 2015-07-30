@@ -4,12 +4,19 @@ namespace App\Http\Controllers\Auth;
 
 use App\User;
 use Validator;
+use Auth;
 use App\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 
+
+use Illuminate\Http\Request;
+// use App\Http\Requests\LoginRequest;
+// use App\Http\Requests\Auth\RegisterRequest;
+
 class AuthController extends Controller
 {
+    // protected $redirectTo = '/error';
     /*
     |--------------------------------------------------------------------------
     | Registration & Login Controller
@@ -30,7 +37,30 @@ class AuthController extends Controller
      */
     public function __construct()
     {
-        $this->middleware('guest', ['except' => 'getLogout']);
+        // $this->middleware('guest', ['except' => 'getLogout']);
+    }
+
+    public function postLogin(Request $request)
+    {
+        
+        $validator = Validator::make($request->all(), [
+            'email' => 'required|email',
+            'password' => 'required|min:4',
+        ]);
+
+        // prevent login 
+        if ($validator->fails()) {
+            // get the error messages from the validator
+            return view('api.error')->withErrors($validator);
+        }
+
+        // if validation passes this code will execute
+        if (Auth::attempt($request->all())) {
+            $user = Auth::user();
+            echo '<pre>' . print_r($user, 1) . '</pre>';
+            // return view('api.success')->with('message', $user);
+        }
+
     }
 
     /**
