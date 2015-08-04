@@ -555,7 +555,7 @@
 			"file": "app/Http/Controllers/Auth/AuthController.php",
 			"settings":
 			{
-				"buffer_size": 2633,
+				"buffer_size": 2790,
 				"line_ending": "Unix"
 			}
 		},
@@ -1125,15 +1125,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2633,
+						"buffer_size": 2790,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1731,
-								1731
+								1633,
+								1633
 							]
 						],
 						"settings":
@@ -1142,7 +1142,7 @@
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": -0.0,
+						"translation.x": 0.0,
 						"translation.y": 507.0,
 						"zoom_level": 1.0
 					},
@@ -1311,7 +1311,7 @@
 		[
 			[
 				"",
-				"C:\\Users\\KH-NB-06\\Documents\\paperlust.sublime-project"
+				"D:\\new-irigasi.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -1333,7 +1333,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 361.0,
+	"side_bar_width": 281.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

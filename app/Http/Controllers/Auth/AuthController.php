@@ -4,15 +4,15 @@ namespace App\Http\Controllers\Auth;
 
 use App\User;
 use Validator;
-use Auth;
 use App\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 
 
 use Illuminate\Http\Request;
-// use App\Http\Requests\LoginRequest;
-// use App\Http\Requests\Auth\RegisterRequest;
+
+// own repositories
+use App\Repositories\AuthRepository;
 
 class AuthController extends Controller
 {
@@ -40,27 +40,16 @@ class AuthController extends Controller
         // $this->middleware('guest', ['except' => 'getLogout']);
     }
 
-    public function postLogin(Request $request)
+    public function postLogin(Request $request, AuthRepository $auth)
     {
+        $data = $auth->postLogin($request);
+
+        if ($data['status']) {
+            return view('api.success')->with('data', json_encode($data));
+        } else {
+            return view('api.error')->with('errors', json_encode($data));
+        }
         
-        $validator = Validator::make($request->all(), [
-            'email' => 'required|email',
-            'password' => 'required|min:4',
-        ]);
-
-        // prevent login 
-        if ($validator->fails()) {
-            // get the error messages from the validator
-            return view('api.error')->withErrors($validator);
-        }
-
-        // if validation passes this code will execute
-        if (Auth::attempt($request->all())) {
-            $user = Auth::user();
-            echo '<pre>' . print_r($user, 1) . '</pre>';
-            // return view('api.success')->with('message', $user);
-        }
-
     }
 
     /**
